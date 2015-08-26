@@ -10,7 +10,7 @@ Opiskelija voi ilmoittautua uutena opiskelijana kurssille vain yhteen kertaan. K
 
 Kurssi päättyy pakolliseen <a href="http://advancedkittenry.github.io/aikataulu/demo.html">demotilaisuuteen</a>, jossa jokainen esittelee projektinsa muille.
 
-**Kurssi alkaa pakollisella aloitusluennolla ma 11.5. klo 14-16 luokassa BK107.**
+**Kurssi alkaa pakollisella aloitusluennolla ti 1.9. klo 16-18 luokassa C222.**
 
 <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f449.png" alt="Drawing" height="30" width="30"/> **<a href="https://github.com/AdvancedKittenry/Periodi5-2015/raw/gh-pages/kalvot/aloitusluento.pdf">Aloitusluennon kalvot</a>**
 
@@ -39,8 +39,8 @@ Kurssilla järjestetään kaksi vapaaehtoista koodikatselmointia, joissa opiskel
 
 ### Koodikatselmointien aikataulu
 
-* Viikolla 3 koodikatselmoinnin deadline on sunnuntaina 31.5 klo 23:59
-* Viikolla 5 koodikatselmoinnin deadline on sunnuntaina 14.6 klo 23:59
+* Viikolla 3 koodikatselmoinnin deadline on sunnuntaina 20.9 klo 23:59
+* Viikolla 5 koodikatselmoinnin deadline on sunnuntaina 4.10 klo 23:59
 
 Katselmoitavat repositoriot ovat näkyvissä labtoolissa deadlineviikon maanantaina.
 
@@ -61,24 +61,21 @@ Ohjaus pidetään luokassa BK107 ja viikottaisten palautusten deadline on joka v
 
 ## Ajankohtaista
 
-* Aloitusluento pidetään ma 11.5. klo 14-16 luokassa B122.
+* Aloitusluento pidetään ma 1.9. klo 16-18 luokassa C222.
 * <a href="https://github.com/AdvancedKittenry/Periodi5-2015/raw/gh-pages/kalvot/aloitusluento.pdf">Aloitusluennon kalvot</a> lisätty sivulle.
-* **(19.5.)** Tietokantasovelluksen pajat jatkossa luokassa BK107
-* **(25.5.)** Koodikatselmointien deadlinet siirretty sunnuntaille. Viikon 3 koodikatselmoinnin deadline on siis sunnuntaina 31.5.
-* **(8.6.)** Demotilaisuudet **17.6. 16-18 BK107** ja **18.6. 12-14 BK107**
 
 # Ohjaus
 
 **Ongelmien kanssa ei saa olla yksin! Jos on kysyttävää, tulee ohjaukseen, lähetä viestiä irkissä (joko suoraan ohjaajalle tai #tsoha2015 kanavalle), tai lähetä ohjaajalle sähköpostia**
 
-Kurssin ohjaukset pidetään **luokassa BK107** tiistaisin 13-14 sekä torstaisin 16-18.
+Kurssin ohjaukset pidetään **luokassa BK107** tiistaisin 12-14 sekä torstaisin 12-14.
 
 ## Ohjaaja
 
-* Nikke Kostiainen (ohjaus TI 13-14 BK107, TO 16-18 BK107)
- * email: nikke.kostiainen@helsinki.fi
- * irc: NikG
+* Kalle Ilves (ohjaus TI 12-14 BK107, TO 12-14 BK107)
+ * email: kalle.ilves@helsinki.fi
+ * irc: kaltsoon
 
 ## IRC-kanava
 
-Kurssin irc-kanava on #tsoha2015
+Kurssin irc-kanava on #tsoha2015, **tervetuloa! :)**
