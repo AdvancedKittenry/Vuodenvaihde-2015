@@ -19,7 +19,7 @@ Kurssi päättyy pakolliseen <a href="http://advancedkittenry.github.io/aikataul
 
 <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f449.png" alt="Drawing" height="30" width="30"/>  **<a href="http://tsoha.github.io">PHP-materiaali.</a>** Tämän materiaalin avulla opit tekemään web-sovelluksia PHP-ohjelmointiekielellä.
 
-Kiinnostaako muut toteutusalustat? Puhu ohjaajan kanssa, sopiiko suunnittelemasi toteutusvaihtoehto kurssin suorittamiseen.
+Kiinnostaako muut toteutusalustat (Node, Ruby, Python, Java...)? Puhu ohjaajan kanssa, sopiiko suunnittelemasi toteutusvaihtoehto kurssin suorittamiseen.
 
 ## Palautukset
 
