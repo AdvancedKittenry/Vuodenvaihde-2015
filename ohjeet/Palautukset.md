@@ -7,6 +7,7 @@
   * Seuraavaan deadlineen on oltava kyseinen deadline ja myöhästynyt deadline
 * Jokaisesta palautuksesta tulee lyhyehkö kirjallinen palaute labtooliin
 * Tarkempaa palautetta saat käymällä pajassa
+* **Jos et toteuta sovellustasi PHP:lla, mukaile vaatimuksia parhaasi mukaan**
 * **Lisäaikaa saa hyvällä syyllä, etukäteen pyytämällä**
 
 <h3>Viikko 1</h3>
