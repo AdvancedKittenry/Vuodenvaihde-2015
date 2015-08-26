@@ -48,7 +48,7 @@ Katselmoitavat repositoriot ovat näkyvissä labtoolissa deadlineviikon maananta
 
 | Viikko | ma | ti | ke | to | pe | la | su |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **36** <br> 11.-17.5 |  -  |  -  |  -  |  -  |  -  |  -  |  **Palautus 1** <br> klo. 23:59 |
+| **36** <br> 11.-17.5 |  -  |  -  |  -  |  **PAJA***<br>klo.12-14  |  -  |  -  |  **Palautus 1** <br> klo. 23:59 |
 | **37** <br> 18.-24.5 |  -  |**PAJA***<br>klo.12-14|  -  |**PAJA***<br>klo.12-14|  -  |  -  |  **Palautus 2** <br> klo. 23:59 |
 | **38** <br> 25.-31.5 |  -  |**PAJA***<br>klo.12-14|  -  |**PAJA**\*<br>klo.12-14|  -  |  -  |  **Palautus 3** <br> klo. 23:59 <br> **Katselmointi 1** <br> klo: 23:59  |
 | **39** <br> 1.-7.6 |  -  |**PAJA***<br>klo.12-14|  -  |**PAJA***<br>klo.12-14|  -  |  -  |  **Palautus 4** <br> klo. 23:59 |
