@@ -69,13 +69,18 @@ Ohjaus pidetään luokassa BK107 ja viikottaisten palautusten deadline on joka v
 
 **Ongelmien kanssa ei saa olla yksin! Jos on kysyttävää, tulee ohjaukseen, lähetä viestiä irkissä (joko suoraan ohjaajalle tai #tsoha2015 kanavalle), tai lähetä ohjaajalle sähköpostia**
 
-Kurssin ohjaukset pidetään **luokassa BK107** tiistaisin 12-14 sekä torstaisin 12-14.
+Kurssin ohjaukset pidetään **luokassa BK107** tiistaisin 16-18 sekä torstaisin 12-14.
 
 ## Ohjaaja
 
 * Kalle Ilves (ohjaus TI 12-14 BK107, TO 12-14 BK107)
  * email: kalle.ilves@helsinki.fi
  * irc: kaltsoon
+
+* Marko Haanranta (ohjaus TI 16-18 BK107)
+ * email: marko.haanranta@helsinki.fi
+ * irc: markhaa
+
 
 ## IRC-kanava
 
