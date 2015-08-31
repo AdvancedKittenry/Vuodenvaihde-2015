@@ -29,7 +29,7 @@ Kurssilla on käytössä viikkoaikataulu ja viikottaiset palautukset, joiden vaa
 
 Ensimmäisellä viikolla palautukset suoritetaan rekisteröitymällä Labtool-sivustolle ja seuraavina viikkoina git-versionhallinnan ja GitHubin kautta.
 
-<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f449.png" alt="Drawing" height="30" width="30"/> **<a href="http://tsoha-labtool.herokuapp.com/register">Rekisteröidy Labtool-sivustolle</a>**
+<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f449.png" alt="Drawing" height="30" width="30"/> **<a href="http://tsoha-labtool.herokuapp.com/register">Rekisteröidy Labtool-sivustolle</a>** **Älä rekisteröidy ennen 3.9!** 
 
 Jokaisella viikolla sovelluksen kannalta olennaisimmat tiedot ja linkit kootaan erillisille työn esittelysivulle (oman GitHub-repon README.md-tiedosto on hyvä esittelysivu), joka myös syötetään Labtoolin testiosoitteeksi. Muista pitää esittelysivusi ajan tasalla. Sen päivittämättä jättämisestä voi menettää pisteitä.
 
