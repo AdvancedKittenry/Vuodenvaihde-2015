@@ -57,7 +57,7 @@ Katselmoitavat repositoriot ovat näkyvissä labtoolissa deadlineviikon maananta
 
 **Aikataululla on mahdollisuus vielä muuttua*
 
-Ohjaus pidetään luokassa BK107 ja viikottaisten palautusten deadline on joka viikon sunnuntaina klo 23:59. Demon ajankohta on viikolla **25**, tarkempi aika päätetään myöhemmin.
+Ohjaus pidetään luokassa BK107 ja viikottaisten palautusten deadline on joka viikon sunnuntaina klo 23:59. Demon ajankohta on viikolla **41**, tarkempi aika päätetään myöhemmin.
 
 ## Ajankohtaista
 
