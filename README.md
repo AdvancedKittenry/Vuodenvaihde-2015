@@ -54,7 +54,7 @@ Katselmoitavat repositoriot ovat näkyvissä labtoolissa deadlineviikon maananta
 | **39** <br> 21.9-27.9 |  -  |**PAJA***<br>klo.16-18|  -  | - |  **PAJA**\*<br>klo.12-14  |  -  |  **Palautus 4** <br> klo. 23:59 |
 | **40** <br> 28.9-4.10 |  -  | - | **PAJA***<br>klo.16-18 | - |  **PAJA**\*<br>klo.12-14  |  -  |  **Palautus 5** <br> klo. 23:59 <br> **Katselmointi 2** <br> klo: 23:59  |
 | **41** <br> 5.10-11.10 |  -  |**PAJA**<br>klo.14-16<br>**DEMO**<br>klo.16-18 | - | - | **PAJA**<br>klo.12-14<br> **DEMO**<br>klo. 14-16  |  -  | - |
-| **42** <br> 12.10-18.10 |  -  | **PAJA***<br>klo.16-18 | - | - | **PAJA***<br>klo.12-14 | - | **Lopullinen palautus** <br> klo. 23:59 |
+| **42** <br> 12.10-18.10 |  -  | **PAJA***<br>klo.16-18 | - | **PAJA***<br>klo.13-15 | - | - | **Lopullinen palautus** <br> klo. 23:59 |
 
 **Aikataululla on mahdollisuus vielä muuttua*
 
@@ -62,6 +62,7 @@ Ohjaus pidetään luokassa BK107 ja viikottaisten palautusten deadline on joka v
 
 ## Ajankohtaista
 
+* perjantain 16.10 ohjaus klo 12-14 on siirretty torstaille 15.10 klo 13-15
 * paja-ajan siirto tiistai 29.9. -> keskiviikko 30.9.
 * Aloitusluento pidetään ma 1.9. klo 16-18 luokassa C222.
 * <a href="https://github.com/AdvancedKittenry/Periodi5-2015/raw/gh-pages/kalvot/aloitusluento.pdf">Aloitusluennon kalvot</a> lisätty sivulle.
