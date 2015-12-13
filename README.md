@@ -60,7 +60,7 @@ Ohjaus pidetään luokassa **B221** ja viikottaisten palautusten deadline on jok
 ## Ajankohtaista
 
 * Aloitusluento pidetään ti 15.12. klo 15-16 luokassa B221.
-* Demotilaisuuden ajankohta löytyy ylhäältä.
+* Ensimmäisen viikon ohjaus ke 16.12. klo 13-15 luokassa B221.
 
 # Ohjaus
 
