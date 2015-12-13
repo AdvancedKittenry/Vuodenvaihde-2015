@@ -55,18 +55,18 @@ Katselmoitavat repositoriot ovat näkyvissä labtoolissa deadlineviikon maananta
 
 **Aikataululla on mahdollisuus vielä muuttua*
 
-Ohjaus pidetään luokassa **B221** ja viikottaisten palautusten deadline on joka viikon sunnuntaina klo 23:59. Demotilaisuus pidetään perjantaina 8.1. klo. 12:00-14:00.
+Ohjaus pidetään luokassa **B221** ja viikottaisten palautusten deadline on joka viikon sunnuntaina klo 23:59. Demotilaisuus pidetään perjantaina 8.1. klo. 13:00-15:00.
 
 ## Ajankohtaista
 
 * Aloitusluento pidetään ti 15.12. klo 15-16 luokassa B221.
-* Demotilaisuuksien ajankohdat löytyvät ylhäältä.
+* Demotilaisuuden ajankohta löytyy ylhäältä.
 
 # Ohjaus
 
 **Ongelmien kanssa ei saa olla yksin! Jos on kysyttävää, tulee ohjaukseen, lähetä viestiä irkissä (joko suoraan ohjaajalle tai #tsoha2015 kanavalle), tai lähetä ohjaajalle sähköpostia**
 
-Kurssin ohjaukset pidetään **luokassa B221** tiistaisin 12-14.
+Kurssin ohjaukset pidetään **luokassa B221** tiistaisin 13-15. Paitsi ensimmäisellä viikolla keskiviikkona 16.12. 13-15.
 
 ## Ohjaaja
 
