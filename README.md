@@ -1,5 +1,7 @@
 #Tietokantasovellus 
 
+**Huomio!** Aikaa on käytössä 4 kalenteri viikkoa, joten ensimmäisellä viikolla pitää tehdä palautukset 1 ja 2. Ja viimeisellä viikolla palautus 5, lopullinen palautus ja toinen koodi katselmointi.
+
 Tietokantasovellus on tietojenkäsittelytieteen aineopintojen harjoitustyökurssi, jossa harjoitellaan tietokantaohjelmointia käytännössä ja opitaan samalla web-sovellusohjelmoinnin perusteet.
 
 Kurssin tarkoituksena on tuottaa toimiva, käytettävä, siististi koodattu ja hyvällä arkkitehtuurilla rakennettu web-sovellus, joka käyttää hyväkseen työssä suunniteltua tietokantaa.
