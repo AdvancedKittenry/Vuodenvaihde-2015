@@ -12,7 +12,7 @@ Kurssi päättyy pakolliseen <a href="http://advancedkittenry.github.io/aikataul
 
 **Kurssi alkaa pakollisella aloitusluennolla ti 15.12. klo 15-16 luokassa B221.**
 
-<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f449.png" alt="Drawing" height="30" width="30"/> **<a href="https://github.com/AdvancedKittenry/Periodi2-2015/raw/gh-pages/kalvot/aloitusluento.pdf">Aloitusluennon kalvot</a>** 
+<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f449.png" alt="Drawing" height="30" width="30"/> **<a href="https://docs.google.com/presentation/d/1d-0mAPU0ucOxmDykGNIvJkNKxSJsc9bEtdAzh0d9YNY/pub?start=false&loop=false&delayms=3000">Aloitusluennon kalvot</a>** 
 
 
 ## Kurssimateriaali
