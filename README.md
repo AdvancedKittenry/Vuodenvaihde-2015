@@ -1,18 +1,18 @@
-# Tietokantasovellus
+#Tietokantasovellus 
 
 Tietokantasovellus on tietojenkäsittelytieteen aineopintojen harjoitustyökurssi, jossa harjoitellaan tietokantaohjelmointia käytännössä ja opitaan samalla web-sovellusohjelmoinnin perusteet.
 
 Kurssin tarkoituksena on tuottaa toimiva, käytettävä, siististi koodattu ja hyvällä arkkitehtuurilla rakennettu web-sovellus, joka käyttää hyväkseen työssä suunniteltua tietokantaa.
 
-Harjoitustyön ohjausta varten opiskelijan pitää ilmoittautua ohjausryhmään. Ohjausryhmille on ilmoitettu ajat, jotka antavat suuntaviivoja siitä milloin (paja)ohjausta on saatavissa. Ohjaus on kuitenkin henkilökohtaista joko pajaohjausta tai henkilökohtaisessa erikseen sovitussa ohjauspalaverissa tapahtuvaa.  Erikseen sovitut ajat voivat olla ilmoitettujen ryhmäaikojen ulkopuolella.
+Kurssin ohjaus on pajamuotoista. Pajan ajankohdat ja luokat lyötyvät kurssisivun alareunasta. Henkilökohtaisia ohjaustapaamisia voidaan myös tarpeen mukaan järjestää muutama kurssin aikana, mutta vain todellisesta tarpeesta.
 
 Opiskelija voi ilmoittautua uutena opiskelijana kurssille vain yhteen kertaan. Kurssin keskeyttänyt opiskelija joutuu myöhemmin hakemaan suoritusmahdollisuutta ilmoittautumalla keskeyttäjien jonoon.
 
 Kurssi päättyy pakolliseen <a href="http://advancedkittenry.github.io/aikataulu/demo.html">demotilaisuuteen</a>, jossa jokainen esittelee projektinsa muille.
 
-**Kurssi alkaa pakollisella aloitusluennolla ti 1.9. klo 16-18 luokassa C222.**
+**Kurssi alkaa pakollisella aloitusluennolla ti 15.12. klo 15-16 luokassa B221.**
 
-<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f449.png" alt="Drawing" height="30" width="30"/> **<a href="https://docs.google.com/presentation/d/1lSq00AuxZ7qaubIeTwOcTDP6GGfad-zArQ7IX-w5AII/edit?usp=sharing">Aloitusluennon kalvot</a>**
+<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f449.png" alt="Drawing" height="30" width="30"/> **<a href="https://github.com/AdvancedKittenry/Periodi2-2015/raw/gh-pages/kalvot/aloitusluento.pdf">Aloitusluennon kalvot</a>** 
 
 
 ## Kurssimateriaali
@@ -29,7 +29,7 @@ Kurssilla on käytössä viikkoaikataulu ja viikottaiset palautukset, joiden vaa
 
 Ensimmäisellä viikolla palautukset suoritetaan rekisteröitymällä Labtool-sivustolle ja seuraavina viikkoina git-versionhallinnan ja GitHubin kautta.
 
-<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f449.png" alt="Drawing" height="30" width="30"/> **<a href="http://tsoha-labtool.herokuapp.com/register">Rekisteröidy Labtool-sivustolle</a>** **Älä rekisteröidy ennen 3.9!** 
+<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f449.png" alt="Drawing" height="30" width="30"/> **<a href="http://tsoha-labtool.herokuapp.com/register">Rekisteröidy Labtool-sivustolle</a>**
 
 Jokaisella viikolla sovelluksen kannalta olennaisimmat tiedot ja linkit kootaan erillisille työn esittelysivulle (oman GitHub-repon README.md-tiedosto on hyvä esittelysivu), joka myös syötetään Labtoolin testiosoitteeksi. Muista pitää esittelysivusi ajan tasalla. Sen päivittämättä jättämisestä voi menettää pisteitä.
 
@@ -39,8 +39,8 @@ Kurssilla järjestetään kaksi vapaaehtoista koodikatselmointia, joissa opiskel
 
 ### Koodikatselmointien aikataulu
 
-* Viikolla 3 koodikatselmoinnin deadline on sunnuntaina 20.9 klo 23:59
-* Viikolla 5 koodikatselmoinnin deadline on sunnuntaina 4.10 klo 23:59
+* Viikolla 3 koodikatselmoinnin deadline on sunnuntaina 27.12 klo 23:59
+* Viikolla 5 koodikatselmoinnin deadline on sunnuntaina 10.12 klo 23:59
 
 Katselmoitavat repositoriot ovat näkyvissä labtoolissa deadlineviikon maanantaina.
 
@@ -48,39 +48,30 @@ Katselmoitavat repositoriot ovat näkyvissä labtoolissa deadlineviikon maananta
 
 | Viikko | ma | ti | ke | to | pe | la | su |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **36** <br> 31.8-6.9 |  -  |  -  |  -  |  -  |  **PAJA***<br>klo.12-14  |  -  |  **Palautus 1** <br> klo. 23:59 |
-| **37** <br> 7.9-13.9 |  -  |**PAJA***<br>klo.16-18|  -  | - |  **PAJA***<br>klo.12-14  |  -  |  **Palautus 2** <br> klo. 23:59 |
-| **38** <br> 14.9-20.9 |  -  |**PAJA***<br>klo.16-18|  -  | - |  **PAJA**\*<br>klo.12-14  |  -  |  **Palautus 3** <br> klo. 23:59 <br> **Katselmointi 1** <br> klo: 23:59  |
-| **39** <br> 21.9-27.9 |  -  |**PAJA***<br>klo.16-18|  -  | - |  **PAJA**\*<br>klo.12-14  |  -  |  **Palautus 4** <br> klo. 23:59 |
-| **40** <br> 28.9-4.10 |  -  | - | **PAJA***<br>klo.16-18 | - |  **PAJA**\*<br>klo.12-14  |  -  |  **Palautus 5** <br> klo. 23:59 <br> **Katselmointi 2** <br> klo: 23:59  |
-| **41** <br> 5.10-11.10 |  -  |**PAJA**<br>klo.14-16<br>**DEMO**<br>klo.16-18 | - | - | **PAJA**<br>klo.12-14<br> **DEMO**<br>klo. 14-16  |  -  | - |
-| **42** <br> 12.10-18.10 |  -  | **PAJA***<br>klo.16-18 | - | **PAJA***<br>klo.13-15 | - | - | **Lopullinen palautus** <br> klo. 23:59 |
+| **51** <br> 26.10-1.11 | - |  **Aloitustilaisuus**<br>klo.15-16<br> **B221**  |  **PAJA***<br>klo.13-15  | - |  -  |  -  |  **Palautus 1 ja 2** <br> klo. 23:59 |
+| **52** <br> 9.11-15.11 |  -  |  **PAJA***<br>klo.13-15  |  -  | - |  -  |  -  |  **Palautus 3** <br> klo. 23:59 <br> **Katselmointi 1** <br> klo: 23:59  |
+| **53** <br> 23.11-29.11 |  -  | **PAJA***<br>klo.13-15|  -  | - |  -  |  -  |  **Palautus 4** <br> klo. 23:59 <br>  |
+| **01** <br> 4.1-10.1 |  -  |**PAJA***<br>klo.13-15| - | - |**DEMO***<br>klo.14-16|  -  | **Palautus 5 ja Lopullinen palautus** <br> klo. 23:59 <br> **Katselmointi 2** <br> klo: 23:59 |
 
 **Aikataululla on mahdollisuus vielä muuttua*
 
-Ohjaus pidetään luokassa BK107 ja viikottaisten palautusten deadline on joka viikon sunnuntaina klo 23:59. Demon ajankohta on viikolla **41**, tarkempi aika päätetään myöhemmin.
+Ohjaus pidetään luokassa **B221** ja viikottaisten palautusten deadline on joka viikon sunnuntaina klo 23:59. Demotilaisuus pidetään perjantaina 8.1. klo. 12:00-14:00.
 
 ## Ajankohtaista
 
-* perjantain 16.10 ohjaus klo 12-14 on siirretty torstaille 15.10 klo 13-15
-* paja-ajan siirto tiistai 29.9. -> keskiviikko 30.9.
-* Aloitusluento pidetään ma 1.9. klo 16-18 luokassa C222.
-* <a href="https://github.com/AdvancedKittenry/Periodi5-2015/raw/gh-pages/kalvot/aloitusluento.pdf">Aloitusluennon kalvot</a> lisätty sivulle.
+* Aloitusluento pidetään ti 15.12. klo 15-16 luokassa B221.
+* Demotilaisuuksien ajankohdat löytyvät ylhäältä.
 
 # Ohjaus
 
 **Ongelmien kanssa ei saa olla yksin! Jos on kysyttävää, tulee ohjaukseen, lähetä viestiä irkissä (joko suoraan ohjaajalle tai #tsoha2015 kanavalle), tai lähetä ohjaajalle sähköpostia**
 
-Kurssin ohjaukset pidetään **luokassa BK107** tiistaisin 16-18 sekä perjantaisin 12-14.
+Kurssin ohjaukset pidetään **luokassa B221** tiistaisin 12-14.
 
 ## Ohjaaja
 
-* Kalle Ilves (ohjaus PE 12-14 BK107)
- * email: kalle.ilves@helsinki.fi
- * irc: kaltsoon
-
-* Marko Haanranta (ohjaus TI 16-18 BK107)
- * email: marko.haanranta@helsinki.fi
+* Marko Haanranta (ohjaus TI 13-15 B221)
+ * email: marko.haanranta [@] helsinki.fi
  * irc: markhaa
 
 
