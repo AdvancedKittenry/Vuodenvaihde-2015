@@ -35,12 +35,12 @@ Jokaisella viikolla sovelluksen kannalta olennaisimmat tiedot ja linkit kootaan 
 
 ## Koodikatselmoinnit
 
-Kurssilla järjestetään kaksi vapaaehtoista koodikatselmointia, joissa opiskelijat lukevat toistensa koodia ja antavat siitä rakentavaa palautetta. Koodikatselmointeja on yhteensä kaksi, viikolla 3 ja viikolla 5, joista molemmista voi saada kaksi lisäpistettä. Lue lisää koodikatselmoinneista <a href="http://advancedkittenry.github.io/aikataulu/koodikatselmointi.html">täältä</a>.
+Kurssilla järjestetään kaksi vapaaehtoista koodikatselmointia, joissa opiskelijat lukevat toistensa koodia ja antavat siitä rakentavaa palautetta. Koodikatselmointeja on yhteensä kaksi, viikolla 3 ja viikolla 5 (php-materiaalin viikot 3 ja 5), joista molemmista voi saada kaksi lisäpistettä. Lue lisää koodikatselmoinneista <a href="http://advancedkittenry.github.io/aikataulu/koodikatselmointi.html">täältä</a>.
 
 ### Koodikatselmointien aikataulu
 
 * Viikolla 3 koodikatselmoinnin deadline on sunnuntaina 27.12 klo 23:59
-* Viikolla 5 koodikatselmoinnin deadline on sunnuntaina 10.12 klo 23:59
+* Viikolla 5 koodikatselmoinnin deadline on sunnuntaina 10.1 klo 23:59
 
 Katselmoitavat repositoriot ovat näkyvissä labtoolissa deadlineviikon maanantaina.
 
@@ -48,9 +48,9 @@ Katselmoitavat repositoriot ovat näkyvissä labtoolissa deadlineviikon maananta
 
 | Viikko | ma | ti | ke | to | pe | la | su |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **51** <br> 26.10-1.11 | - |  **Aloitustilaisuus**<br>klo.15-16<br> **B221**  |  **PAJA***<br>klo.13-15  | - |  -  |  -  |  **Palautus 1 ja 2** <br> klo. 23:59 |
-| **52** <br> 9.11-15.11 |  -  |  **PAJA***<br>klo.13-15  |  -  | - |  -  |  -  |  **Palautus 3** <br> klo. 23:59 <br> **Katselmointi 1** <br> klo: 23:59  |
-| **53** <br> 23.11-29.11 |  -  | **PAJA***<br>klo.13-15|  -  | - |  -  |  -  |  **Palautus 4** <br> klo. 23:59 <br>  |
+| **51** <br> 14.12-20.12 | - |  **Aloitustilaisuus**<br>klo.15-16<br> **B221**  |  **PAJA***<br>klo.13-15  | - |  -  |  -  |  **Palautus 1 ja 2** <br> klo. 23:59 |
+| **52** <br> 21.12-27.12 |  -  |  **PAJA***<br>klo.13-15  |  -  | - |  -  |  -  |  **Palautus 3** <br> klo. 23:59 <br> **Katselmointi 1** <br> klo: 23:59  |
+| **53** <br> 28.12-3.1 |  -  | **PAJA***<br>klo.13-15|  -  | - |  -  |  -  |  **Palautus 4** <br> klo. 23:59 <br>  |
 | **01** <br> 4.1-10.1 |  -  |**PAJA***<br>klo.13-15| - | - |**DEMO***<br>klo.14-16|  -  | **Palautus 5 ja Lopullinen palautus** <br> klo. 23:59 <br> **Katselmointi 2** <br> klo: 23:59 |
 
 **Aikataululla on mahdollisuus vielä muuttua*
