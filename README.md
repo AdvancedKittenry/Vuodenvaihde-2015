@@ -50,10 +50,10 @@ Katselmoitavat repositoriot ovat näkyvissä labtoolissa deadlineviikon maananta
 
 | Viikko | ma | ti | ke | to | pe | la | su |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **51** <br> 14.12-20.12 | - |  **Aloitustilaisuus**<br>klo.15-16<br> **B221**  |  **PAJA***<br>klo.13-15  | - |  -  |  -  |  **Palautus 1 ja 2** <br> klo. 23:59 |
+| **51** <br> 14.12-20.12 | - |  **Aloitustilaisuus**<br>klo.15-16<br>  |  **PAJA***<br>klo.13-15  | - |  -  |  -  |  **Palautus 1 ja 2** <br> klo. 23:59 |
 | **52** <br> 21.12-27.12 |  -  |  **PAJA***<br>klo.13-15  |  -  | - |  -  |  -  |  **Palautus 3** <br> klo. 23:59 <br> **Katselmointi 1** <br> klo: 23:59  |
 | **53** <br> 28.12-3.1 |  -  | **PAJA***<br>klo.13-15|  -  | - |  -  |  -  |  **Palautus 4** <br> klo. 23:59 <br>  |
-| **1** <br> 4.1-10.1 |  -  |**PAJA***<br>klo.13-15| - | - |**DEMO***<br>klo.14-16|  -  | **Palautus 5 ja Lopullinen palautus** <br> klo. 23:59 <br> **Katselmointi 2** <br> klo: 23:59 |
+| **1** <br> 4.1-10.1 |  -  |**PAJA***<br>klo.13-15| - | - |**DEMO***<br>klo.13-15|  -  | **Palautus 5 ja Lopullinen palautus** <br> klo. 23:59 <br> **Katselmointi 2** <br> klo: 23:59 |
 
 Ohjaus pidetään luokassa **B221** ja viikottaisten palautusten deadline on joka viikon sunnuntaina klo 23:59. Demotilaisuus pidetään perjantaina 8.1. klo. 13:00-15:00.
 
