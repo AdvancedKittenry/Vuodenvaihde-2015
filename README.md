@@ -1,5 +1,7 @@
 #Tietokantasovellus 
 
+**Demotilaisuus 8.1. klo 13-15 pidetään luokassa C220.**
+
 **Huomio!** Aikaa on käytössä vain 4 kalenteriviikkoa, joten ensimmäisellä viikolla pitää tehdä palautukset 1 ja 2. Ja viimeisellä viikolla palautus 5, lopullinen palautus ja toinen koodi katselmointi.
 
 Tietokantasovellus on tietojenkäsittelytieteen aineopintojen harjoitustyökurssi, jossa harjoitellaan tietokantaohjelmointia käytännössä ja opitaan samalla web-sovellusohjelmoinnin perusteet.
@@ -55,12 +57,13 @@ Katselmoitavat repositoriot ovat näkyvissä labtoolissa deadlineviikon maananta
 | **53** <br> 28.12-3.1 |  -  | **PAJA***<br>klo.13-15|  -  | - |  -  |  -  |  **Palautus 4** <br> klo. 23:59 <br>  |
 | **1** <br> 4.1-10.1 |  -  |**PAJA***<br>klo.13-15| - | - |**DEMO***<br>klo.13-15|  -  | **Palautus 5** <br> **Lopullinen palautus** <br> **Katselmointi 2** <br> klo: 23:59 |
 
-Ohjaus pidetään luokassa **B221** ja viikottaisten palautusten deadline on joka viikon sunnuntaina klo 23:59. Demotilaisuus pidetään perjantaina 8.1. klo. 13:00-15:00.
+Ohjaus pidetään luokassa **B221** ja viikottaisten palautusten deadline on joka viikon sunnuntaina klo 23:59. Demotilaisuus pidetään luokassa **C220** perjantaina 8.1. klo. 13:00-15:00.
 
 ## Ajankohtaista
 
 * Aloitusluento pidetään ti 15.12. klo 15-16 luokassa B221.
 * Ensimmäisen viikon ohjaus ke 16.12. klo 13-15 luokassa B221.
+* Demotilaisuuden paikka vaihtunut. Demot pidetään luokassa C220(Linkin vieressä). 
 
 # Ohjaus
 
